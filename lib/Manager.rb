@@ -1,3 +1,10 @@
+
 class Manager
+
+ 
+
+
+
+
 
 end
